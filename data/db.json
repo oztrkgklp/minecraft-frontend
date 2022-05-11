@@ -1,0 +1,2047 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/package-1.svg",
+      "isPopular": false,
+      "detail": [
+        { "detailId": 1, "isTrue": true, "limit": null },
+        { "detailId": 2, "isTrue": true, "limit": null },
+        { "detailId": 3, "isTrue": true, "limit": null },
+        { "detailId": 4, "isTrue": false, "limit": null },
+        { "detailId": 5, "isTrue": true, "limit": null },
+        { "detailId": 6, "isTrue": true, "limit": null },
+        { "detailId": 7, "isTrue": false, "limit": "20 Oyuncu" }
+      ],
+      "isOnSale": true,
+      "discountPercentage": 0,
+      "type": 0
+    },
+    {
+      "id": 2,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/package-2.svg",
+      "isPopular": false,
+      "isOnSale": false,
+      "discountPercentage": 0,
+      "detail": [
+        { "detailId": 1, "isTrue": true, "limit": null },
+        { "detailId": 2, "isTrue": true, "limit": null },
+        { "detailId": 3, "isTrue": true, "limit": null },
+        { "detailId": 4, "isTrue": false, "limit": null },
+        { "detailId": 5, "isTrue": true, "limit": null },
+        { "detailId": 6, "isTrue": true, "limit": null },
+        { "detailId": 7, "isTrue": true, "limit": "20 Oyuncu" }
+      ],
+      "type": 0
+    },
+    {
+      "id": 3,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/package-3.svg",
+      "isPopular": false,
+      "isOnSale": false,
+      "discountPercentage": 0,
+      "detail": [
+        { "detailId": 1, "isTrue": true, "limit": null },
+        { "detailId": 2, "isTrue": true, "limit": null },
+        { "detailId": 3, "isTrue": true, "limit": null },
+        { "detailId": 4, "isTrue": false, "limit": null },
+        { "detailId": 5, "isTrue": true, "limit": null },
+        { "detailId": 6, "isTrue": true, "limit": null },
+        { "detailId": 7, "isTrue": true, "limit": "20 Oyuncu" }
+      ],
+      "type": 0
+    },
+    {
+      "id": 4,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 0,
+      "image": "../assets/package-4.svg",
+      "isPopular": false,
+      "isOnSale": false,
+      "discountPercentage": 10,
+      "detail": [
+        { "detailId": 1, "isTrue": true, "limit": null },
+        { "detailId": 2, "isTrue": true, "limit": null },
+        { "detailId": 3, "isTrue": true, "limit": null },
+        { "detailId": 4, "isTrue": false, "limit": null },
+        { "detailId": 5, "isTrue": true, "limit": null },
+        { "detailId": 6, "isTrue": true, "limit": null },
+        { "detailId": 7, "isTrue": true, "limit": "20 Oyuncu" }
+      ],
+      "type": 0
+    },
+    {
+      "id": 5,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/package-5.svg",
+      "isPopular": false,
+      "detail": [
+        { "detailId": 1, "isTrue": true, "limit": null },
+        { "detailId": 2, "isTrue": true, "limit": null },
+        { "detailId": 3, "isTrue": true, "limit": null },
+        { "detailId": 4, "isTrue": false, "limit": null },
+        { "detailId": 5, "isTrue": true, "limit": null },
+        { "detailId": 6, "isTrue": true, "limit": null },
+        { "detailId": 7, "isTrue": true, "limit": "20 Oyuncu" }
+      ],
+      "isOnSale": false,
+      "discountPercentage": 15,
+      "type": 0
+    },
+    {
+      "id": 6,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/package-6.svg",
+      "isPopular": true,
+      "detail": [
+        { "detailId": 1, "isTrue": true, "limit": null },
+        { "detailId": 2, "isTrue": true, "limit": null },
+        { "detailId": 3, "isTrue": true, "limit": null },
+        { "detailId": 4, "isTrue": false, "limit": null },
+        { "detailId": 5, "isTrue": true, "limit": null },
+        { "detailId": 6, "isTrue": true, "limit": null },
+        { "detailId": 7, "isTrue": true, "limit": "20 Oyuncu" }
+      ],
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 0
+    },
+    {
+      "id": 7,
+      "name": "KITTY",
+
+      "price": {
+        "priceInTl":20.00,
+        "period": "GÜN",
+        "periodValue": 30,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/2.png",
+      "isPopular": false,
+      "detail": null,
+      "isOnSale": true,
+      "discountPercentage": 0,
+      "type": 1
+    },
+    {
+      "id": 8,
+      "name": "KITTY",
+      "price": {
+        "priceInTl":20.00,
+        "period": "GÜN",
+        "periodValue": 30,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": false,
+      "detail": null,
+      "isOnSale": true,
+      "discountPercentage": 0,
+      "type": 1
+    },
+    {
+      "id": 9,
+      "name": "KITTY",
+      "price": {
+        "priceInTl":20.00,
+        "period": "GÜN",
+        "periodValue": 30,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/4.png",
+      "isPopular": false,
+      "isOnSale": true,
+      "detail": null,
+      "discountPercentage": 0,
+      "type": 1
+    },
+    {
+      "id": 10,
+      "name": "KITTY",
+      "price": {
+        "priceInTl":20.00,
+        "period": "GÜN",
+        "periodValue": 30,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/5.png",
+      "isPopular": false,
+      "detail": null,
+      "isOnSale": true,
+      "discountPercentage": 0,
+      "type": 1
+    },
+    {
+      "id": 11,
+      "name": "KITTY",
+      "price": {
+        "priceInTl":20.00,
+        "period": "GÜN",
+        "periodValue": 30,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/6.png",
+      "isPopular": false,
+      "isOnSale": true,
+      "discountPercentage": 0,
+      "type": 1,
+      "detail": null
+    },
+    {
+      "id": 12,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/mvip.svg",
+      "isPopular": false,
+      "detail": null,
+      "isOnSale": true,
+      "discountPercentage": 30,
+      "type": 2
+    },
+    {
+      "id": 13,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/mvip.svg",
+      "isPopular": false,
+      "isOnSale": false,
+      "detail": null,
+      "discountPercentage": 30,
+      "type": 2
+    },
+    {
+      "id": 14,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/mvip.svg",
+      "isPopular": false,
+      "isOnSale": false,
+      "detail": null,
+      "discountPercentage": 30,
+      "type": 2
+    },
+    {
+      "id": 15,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/mvip.svg",
+      "isPopular": false,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 2
+    },
+    {
+      "id": 16,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/mvip.svg",
+      "isPopular": false,
+      "isOnSale": false,
+      "detail": null,
+      "discountPercentage": 30,
+      "type": 2
+    },
+    {
+      "id": 17,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "SRC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/mvip.svg",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 2
+    },
+    {
+      "id": 18,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 10,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 19,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 20,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 20,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 30,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 21,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 40,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 22,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 50,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 23,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 60,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 24,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 70,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 25,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 80,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 26,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 90,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 27,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 100,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 28,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 110,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 29,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 120,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 30,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 130,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 31,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 140,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 32,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 150,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    },
+    {
+      "id": 33,
+      "name": "Product 1",
+      "price": {
+        "priceInTl":20.00,
+        "period": "AY",
+        "periodValue": 1,
+        "amount": 160,
+        "amountUnit": "RC",
+        "kdvPercentage": 0.18
+      },
+      "stock": 10,
+      "image": "../assets/3.png",
+      "isPopular": true,
+      "detail": null,
+      "isOnSale": false,
+      "discountPercentage": 30,
+      "type": 3
+    }
+  ],
+  "balance": [{ "id": 1, "amountGold": 10, "amountDiamond": 0 }],
+  "vip-details": [
+    { "id": 1, "name": "2x Coin Kazanımı" },
+    { "id": 2, "name": "Ücretsiz Pelerin" },
+    { "id": 3, "name": "Ücretsiz Kanat" },
+    { "id": 4, "name": "Ücretsiz Skin Yükleme" },
+    { "id": 5, "name": "Hediye Coin" },
+    { "id": 6, "name": "Şapka Güneş Sensörü" },
+    { "id": 7, "name": "Sohbette Beyaz Yaz" }
+  ],
+  "blog-posts": [
+    {
+      "id": 1,
+      "periodValue": 1,
+      "periodUnit": "Ay",
+      "category": "Güncelleme",
+      "title": "Yeni Oyun ArcadeMix Şimdi Riva Netowork'de",
+      "imageHome": "../assets/blog1.png",
+      "imageDetail": "../assets/slide1.png",
+      "content": " <div><p>ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur.Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyunbaşlar. ArcadeMix içerisinde, oyuncularımızın en sevdiği...</p><h2>ArcadeMix Nedir?</h2><p>ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur. Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyun başlar.</p><img src='images/landing-banner.png' alt='' /></div>",
+      "description": "ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur.Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyunbaşlar. ArcadeMix içerisinde, oyuncularımızın en sevdiği..."
+    },
+    {
+      "id": 2,
+      "periodValue": 1,
+      "periodUnit": "Ay",
+      "category": "Duyuru",
+      "title": "Yeni Oyun ArcadeMix Şimdi Riva Netowork'de",
+      "imageHome": "../assets/blog2.png",
+      "imageDetail": "../assets/slide1.png",
+      "content": " <div><p>ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur.Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyunbaşlar. ArcadeMix içerisinde, oyuncularımızın en sevdiği...</p><h2>ArcadeMix Nedir?</h2><p>ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur. Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyun başlar.</p><img src='images/landing-banner.png' alt='' /></div>",
+      "description": "ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur.Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyunbaşlar. ArcadeMix içerisinde, oyuncularımızın en sevdiği..."
+    },
+    {
+      "id": 3,
+      "periodValue": 1,
+      "periodUnit": "Ay",
+      "category": "Duyuru",
+      "title": "Yeni Oyun ArcadeMix Şimdi Riva Netowork'de",
+      "imageHome": "../assets/blog3.png",
+      "imageDetail": "../assets/slide1.png",
+      "content": " <div><p>ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur.Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyunbaşlar. ArcadeMix içerisinde, oyuncularımızın en sevdiği...</p><h2>ArcadeMix Nedir?</h2><p>ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur. Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyun başlar.</p><img src='images/landing-banner.png' alt='' /></div>",
+      "description": "ArcadeMix adından da anlaşılacağı üzere birçok mini oyunun bir araya gelmesiyle oluşan bir oyundur.Oyuncular oyuna başladıkları zaman istedikleri mini oyunu oylar ve oy fazlalığına göre istenilen mini oyunbaşlar. ArcadeMix içerisinde, oyuncularımızın en sevdiği..."
+    }
+  ],
+  "top-players":
+    [
+      {
+        "id": 1,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 1,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 2,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 2,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 3,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 3,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 4,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 4,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 5,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 5,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 6,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 6,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 7,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 7,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 8,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 8,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 9,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 9,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      },
+      {
+        "id": 10,
+        "photo": "../assets/mc-head2.svg",
+        "rank": 10,
+        "name": "BukiBurti",
+        "kill": 1500,
+        "death": 10,
+        "win": 2000,
+        "score": 3000
+      }
+     
+    ],
+  "games": [
+    {
+      "id": 1,
+      "title": "Blue Wars1",
+      "image": "../assets/game1.png",
+      "icon": "../assets/blue-star.svg",
+      "detail": {
+        "players": [
+          {
+            "id": 1,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 1,
+            "name": "BukiBurti",
+            "kill": 1500,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 2,
+            "rank": 2,
+            "photo": "../assets/mc-head1.svg",
+            "name": "BukiBurti",
+            "kill": 200,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 3,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 3,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 4,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 4,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 5,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 5,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 6,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 6,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 7,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 7,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 8,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 8,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          }
+        ],
+        "awards": [
+          {
+            "id": 1,
+            "playerRank": 1,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 2,
+            "playerRank": 2,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 3,
+            "playerRank": 3,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 4,
+            "playerRank": 4,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+            
+          },
+          {
+            "id": 5,
+            "playerRank": 5,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 6,
+            "playerRank": 6,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 7,
+            "playerRank": 7,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 8,
+            "playerRank": 8,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Blue Wars2",
+      "image": "../assets/game2.png",
+      "icon": "../assets/blue-star.svg",
+      "detail": {
+        "players": [
+          {
+            "id": 1,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 1,
+            "name": "BukiBurti",
+            "kill": 200,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 2,
+            "rank": 2,
+            "photo": "../assets/mc-head1.svg",
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 3,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 3,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 4,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 4,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          }
+        ],
+        "awards": [
+          {
+            "id": 1,
+            "playerRank": 1,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 2,
+            "playerRank": 2,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 3,
+            "playerRank": 3,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 4,
+            "playerRank": 4,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+            
+          },
+          {
+            "id": 5,
+            "playerRank": 5,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 6,
+            "playerRank": 6,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 7,
+            "playerRank": 7,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 8,
+            "playerRank": 8,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Blue Wars3",
+      "image": "../assets/game3.png",
+      "icon": "../assets/blue-star.svg",
+      "detail": {
+        "players": [
+          {
+            "id": 1,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 1,
+            "name": "BukiBurti",
+            "kill": 200,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 2,
+            "rank": 2,
+            "photo": "../assets/mc-head1.svg",
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 3,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 3,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 4,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 4,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 5,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 5,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 6,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 6,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 7,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 7,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 8,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 8,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          }
+        ],
+        "awards": [
+          {
+            "id": 1,
+            "playerRank": 1,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 2,
+            "playerRank": 2,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 3,
+            "playerRank": 3,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 4,
+            "playerRank": 4,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+            
+          },
+          {
+            "id": 5,
+            "playerRank": 5,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 6,
+            "playerRank": 6,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 7,
+            "playerRank": 7,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 8,
+            "playerRank": 8,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Blue Wars4",
+      "image": "../assets/game4.png",
+      "icon": "../assets/blue-star.svg",
+      "detail": {
+        "players": [
+          {
+            "id": 1,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 1,
+            "name": "BukiBurti",
+            "kill": 200,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 2,
+            "rank": 2,
+            "photo": "../assets/mc-head1.svg",
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 3,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 3,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 4,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 4,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 5,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 5,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 6,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 6,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 7,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 7,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 8,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 8,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          }
+        ],
+        "awards": [
+          {
+            "id": 1,
+            "playerRank": 1,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 2,
+            "playerRank": 2,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 3,
+            "playerRank": 3,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 4,
+            "playerRank": 4,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+            
+          },
+          {
+            "id": 5,
+            "playerRank": 5,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 6,
+            "playerRank": 6,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 7,
+            "playerRank": 7,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 8,
+            "playerRank": 8,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Blue Wars5",
+      "image": "../assets/game1.png",
+      "icon": "../assets/blue-star.svg",
+      "detail": {
+        "players": [
+          {
+            "id": 1,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 1,
+            "name": "BukiBurti",
+            "kill": 200,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 2,
+            "rank": 2,
+            "photo": "../assets/mc-head1.svg",
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 3,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 3,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 4,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 4,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 5,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 5,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 6,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 6,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 7,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 7,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 8,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 8,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          }
+        ],
+        "awards": [
+          {
+            "id": 1,
+            "playerRank": 1,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 2,
+            "playerRank": 2,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 3,
+            "playerRank": 3,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 4,
+            "playerRank": 4,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+            
+          },
+          {
+            "id": 5,
+            "playerRank": 5,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 6,
+            "playerRank": 6,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 7,
+            "playerRank": 7,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 8,
+            "playerRank": 8,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Blue Wars6",
+      "image": "../assets/game2.png",
+      "icon": "../assets/blue-star.svg",
+      "detail": {
+        "players": [
+          {
+            "id": 1,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 1,
+            "name": "BukiBurti",
+            "kill": 200,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 2,
+            "rank": 2,
+            "photo": "../assets/mc-head1.svg",
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 3,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 3,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 4,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 4,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 5,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 5,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 6,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 6,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 7,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 7,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 8,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 8,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          }
+        ],
+        "awards": [
+          {
+            "id": 1,
+            "playerRank": 1,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 2,
+            "playerRank": 2,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 3,
+            "playerRank": 3,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 4,
+            "playerRank": 4,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+            
+          },
+          {
+            "id": 5,
+            "playerRank": 5,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 6,
+            "playerRank": 6,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 7,
+            "playerRank": 7,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 8,
+            "playerRank": 8,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Blue Wars7",
+      "image": "../assets/game3.png",
+      "icon": "../assets/blue-star.svg",
+      "detail": {
+        "players": [
+          {
+            "id": 1,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 1,
+            "name": "BukiBurti",
+            "kill": 500,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 2,
+            "rank": 2,
+            "photo": "../assets/mc-head1.svg",
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 3,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 3,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 4,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 4,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 5,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 5,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 6,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 6,
+            "name": "BukiBurti",
+            "kill": 500,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 7,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 7,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 8,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 8,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          }
+        ],
+        "awards": [
+          {
+            "id": 1,
+            "playerRank": 1,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 2,
+            "playerRank": 2,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 3,
+            "playerRank": 3,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 4,
+            "playerRank": 4,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+            
+          },
+          {
+            "id": 5,
+            "playerRank": 5,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 6,
+            "playerRank": 6,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 7,
+            "playerRank": 7,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 8,
+            "playerRank": 8,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Blue Wars8",
+      "image": "../assets/game4.png",
+      "icon": "../assets/blue-star.svg",
+      "detail": {
+        "players": [
+          {
+            "id": 1,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 1,
+            "name": "BukiBurti",
+            "kill": 200,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 2,
+            "rank": 2,
+            "photo": "../assets/mc-head1.svg",
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 3,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 3,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 4,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 4,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 5,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 5,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 6,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 6,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 7,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 7,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          },
+          {
+            "id": 8,
+            "photo": "../assets/mc-head1.svg",
+            "rank": 8,
+            "name": "BukiBurti",
+            "kill": 100,
+            "death": 10,
+            "win": 2000,
+            "score": 3000
+          }
+        ],
+        "awards": [
+          {
+            "id": 1,
+            "playerRank": 1,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 2,
+            "playerRank": 2,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 3,
+            "playerRank": 3,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 4,
+            "playerRank": 4,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+            
+          },
+          {
+            "id": 5,
+            "playerRank": 5,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 6,
+            "playerRank": 6,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 7,
+            "playerRank": 7,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          },
+          {
+            "id": 8,
+            "playerRank": 8,
+            "award": {
+              "amount": 2700,
+              "amountUnit": "RC"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
